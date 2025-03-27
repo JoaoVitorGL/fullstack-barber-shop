@@ -38,3 +38,22 @@
 # System files
 *.DS_Store
 *Thumbs.db
+
+**/HELP.md
+**/.gradle/
+**/build/
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+
+# NetBeans
+**/nbproject/private/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/.nb-gradle/
