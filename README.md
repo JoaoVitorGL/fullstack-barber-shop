@@ -2,7 +2,7 @@
   Barber Shop
 </h1>
 
-Projeto full stack que implementa o agendamento de clientes em uma Barbearia. Criada para o desafio de projeto do bootcamp decola tech Avanade 2025 (Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular).
+Projeto full stack que implementa o agendamento de clientes em uma Barbearia.
 
 ## Tecnologias
 
